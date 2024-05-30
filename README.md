@@ -1,0 +1,1 @@
+This is an Medicine register to make prescription. you can se Product name, Product id, Manufacturer, Quantity and Expiration date. when you have written in all of the fields then you press submit and then it comes under the butten as a prescription and then if you dont want it you can press the X button
